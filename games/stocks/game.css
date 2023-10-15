@@ -1,0 +1,88 @@
+
+body, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.btn-primary {
+    background-color: #14af00;
+    color: #fff;
+}
+
+.btn-default {
+    background-color: #fcbebe;
+    color: #333;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+#myCanvas {
+    border: 1px solid #888;
+    max-width: 100%;
+}
+
+.controls {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.panel {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#bank-loc {
+	padding-top: 10px; 
+	width: 300px; 
+	padding-left: 5px;
+	margin-top: 30px;
+}
+
+#money {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#opt1price, #opt1stocks {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+div > p {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+

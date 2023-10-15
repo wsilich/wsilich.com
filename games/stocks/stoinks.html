@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Stoinks</title>
+		<meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="game.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="js/game.js"></script>
+	</head>
+	<body>
+        <div>
+            <p>Stoinks</p>
+        </div>
+		
+        <div class="container">
+            <div class="col-md-6">
+                <button id="start" class="btn btn-primary" role="button">Start</button>
+                <button id="stop" class="btn btn-default" role="button">Stop</button>
+                <br>
+                <div id="stocks" style="padding-top: 10px">
+                    <div class="panel panel-default" style="padding-top: 10px; width: 300px; padding-left: 5px;">
+                        <p id="opt1price">Price: $0.00</p>
+                    </div>
+                </div>
+                <div class="game-chart">
+                    <div id="canvas-loc" style="padding-top: 5px;">
+                        <canvas id="myCanvas" width="500" height="300"
+                                style="border:1px solid #888;">
+                        </canvas>
+                    </div>
+                    <div class="controls">
+                        <div class="buy" style="float:none">
+                            <button id="opt1buyAll" title="Buys as many as possible" class="btn btn-success">Buy All</button>
+                            <button id="opt1buy10" title="Buys 10 stock" class="btn btn-success" role="button">Buy 10</button>
+                            <button id="opt1buy" title="Buys 1 stock" class="btn btn-success" role="button">Buy</button>
+                        </div>
+                            <div class="sell" style="float:left;">
+                            <button id="opt1sellAll" title="Sells all stocks" class="btn btn-danger" role="button">Sell All</button>
+                            <button id="opt1sell10" title="Sells 10 stock" class="btn btn-danger" role="button">Sell 10</button>
+                            <button id="opt1sell" title="Sells 1 stock" class="btn btn-danger" role="button">Sell</button>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div id="bank-loc" class="panel panel-default">
+                    <p id="money">Bank: $500.00</p><br>
+                    <p id="opt1stocks">Stocks: 0</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+			</table>
+		</div>
+	</body>
+</html>

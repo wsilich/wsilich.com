@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .archive {
+  font-size: medium;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
