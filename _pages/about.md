@@ -12,4 +12,4 @@ Hello, I’m William Silich and I am a senior at Iowa State University. I am maj
 
 If you happen to find this site but didn't want to learn more about me, there are also [some games](/games/stocks/stoinks.html) set up. What kind of computer science student would I be otherwise?
 
-This is an early version of my own site. So if you run into any issues, feel free to email me at [admin@wsilich.com](mailto:admin@wsilich.com).
+This is an early version of my own site. So if you run into any unexpected issues, feel free to email me at [admin@wsilich.com](mailto:admin@wsilich.com).
