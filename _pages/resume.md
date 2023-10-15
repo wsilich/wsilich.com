@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you prefer a resumes the old fashion way, check out my [pdf version.](/assets/files/resume.pdf){:target="_blank"}
+If you prefer resumes the old fashion way, check out my [pdf version.](/assets/files/resume.pdf){:target="_blank"}
 
 Education
 ======
@@ -66,4 +66,4 @@ Notable School Projects
 - RPG Dungeon game
   - Terrain generating and open world Pokémon game complete with battle and captures o Written in C and then later ported and advanced with C++
   
-Last updated Octiber 2023
+Last updated October 2023
