@@ -58,12 +58,14 @@ Recent Activities and Leadership:
   
 Notable School Projects
 ======
-- AI-Powered Checkers
+- [AI-Powered Checkers](/portfolio/checkers)
     - Developed a Python application that would play checkers as part of AI class. 
     - Implemented Alpha-Beta pruning search algorithm for finding best move
-- Mobile App Development
-  - Developed as part of a team an Android racing application. o Focused on backend development using Spring Boot
-- RPG Dungeon game
-  - Terrain generating and open world Pokémon game complete with battle and captures o Written in C and then later ported and advanced with C++
+- [Mobile App Development](/portfolio/mobile)
+  - Developed as part of a team an Android racing application. 
+  - Focused on backend development using Spring Boot
+- [RPG Dungeon game](/portfolio/dungeon)
+  - Terrain generating and open world Pokémon game complete with battles and capturing pokemon
+  - Written in C and then later ported and advanced with C++
   
 Last updated October 2023
