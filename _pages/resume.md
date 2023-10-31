@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you prefer resumes the old fashion way, check out my [pdf version.](/assets/files/resume.pdf){:target="_blank"}
+If you prefer resumes the old fashioned way, check out my [pdf version.](/assets/files/resume.pdf){:target="_blank"}
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
   - GPA: 3.85
 * AWS Cloud Practitioner Certification - August 2023
 
-Work experience
+Work Experience
 ======
 * **Software Engineering Intern** to Part-Time - Principal Financial 
   - May 2023 - Present
