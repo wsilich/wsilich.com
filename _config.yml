@@ -88,6 +88,9 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : portfolio@wsilich.com
+  username         : portfolio
+  admin            : admin
+  domain           : wsilich.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
