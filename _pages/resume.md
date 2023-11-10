@@ -56,7 +56,7 @@ Recent Activities and Leadership:
 * Online Capture the Flag Competitions
 * Iowa State Honors Program
   
-Notable School Projects
+Some Fun School Projects
 ======
 - [AI-Powered Checkers](/portfolio/checkers)
     - Developed a Python application that would play checkers as part of AI class. 
