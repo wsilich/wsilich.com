@@ -56,13 +56,13 @@ Recent Activities and Leadership:
 * Online Capture the Flag Competitions
 * Iowa State Honors Program
   
-Some Fun School Projects
+Some Fun School Projects:
 ======
 - [AI-Powered Checkers](/portfolio/checkers)
-    - Developed a Python application that would play checkers as part of AI class. 
+    - Developed a Python application that would play checkers as part of AI class 
     - Implemented Alpha-Beta pruning search algorithm for finding best move
 - [Mobile App Development](/portfolio/mobile)
-  - Developed as part of a team an Android racing application. 
+  - Developed as part of a team an Android racing application 
   - Focused on backend development using Spring Boot
 - [RPG Dungeon game](/portfolio/dungeon)
   - Terrain generating and open world Pokémon game complete with battles and capturing pokemon
