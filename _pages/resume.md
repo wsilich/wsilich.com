@@ -44,7 +44,7 @@ Work Experience
   - Used Git/Jira project management tools
   - Worked with Laravel/Vue Frameworks/PHP for developing websites
   
-Recent Activities and Leadership:
+Recent Activities and Leadership
 ======
 * Cyber Security Club (IASG)
   - Help organize and give talks about a variety of security topics, demonstrations, along with bring in industry speakers
@@ -56,7 +56,7 @@ Recent Activities and Leadership:
 * Online Capture the Flag Competitions
 * Iowa State Honors Program
   
-Some Fun School Projects:
+Some Fun School Projects
 ======
 - [AI-Powered Checkers](/portfolio/checkers)
     - Developed a Python application that would play checkers as part of AI class 
