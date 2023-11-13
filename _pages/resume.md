@@ -38,6 +38,7 @@ Work Experience
   - Worked with Java (Spring Boot) applications
 
 * **Software Developer** - Iowa State University
+  - May 2021 - May 2023
   - Full Stack web developer (Typescript/JavaScript/CSS/HTML/PHP) 
   - Created and implemented database relational models
   - Fulfilled 3rd party client design specifications
